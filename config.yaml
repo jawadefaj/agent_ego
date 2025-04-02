@@ -1,0 +1,48 @@
+# Multi-LLM Agent Configuration
+
+# Browser automation settings
+browser:
+  headless: false  # Set to false to see browser window
+  browser_window_size:
+    width: 800
+    height: 600
+  screenshot_dir: "screenshots"  # Directory for screenshots
+  timeout: 30000  # Page timeout in milliseconds
+  reuse_existing: false  # Set to true to reuse existing browser instance
+  chrome_instance_path: # C:\Program Files\Google\Chrome\Application\chrome.exe  # Path to Chrome instance to use
+  disable_security: true  # Set to true to disable security features
+# Logging settings
+logging:
+  log_dir: "logs"  # Directory for logs
+  log_level: "DEBUG"
+
+# Agent LLM configuration
+agent:
+  # Chat LLM configuration
+  chat:
+    provider: "deepseek"
+    base_url: "https://api.deepseek.com"
+    model: "deepseek-chat"
+    api_key: "sk-"
+    temperature: 0.2
+    max_tokens: 200
+  
+  # Reasoning LLM configuration
+  reasoning:
+    provider: "deepseek"
+    base_url: "https://api.deepseek.com"
+    model: "deepseek-reasoner"
+    api_key: "sk-"
+    temperature: 0.2
+    max_tokens: 300
+  
+  # Vision LLM configuration
+  vision:
+    provider: "openai"
+    base_url: "https://api.openai.com/v1"
+    model: "gpt-4o-mini"
+    api_key: "sk-pro"  # Replace with your actual API key
+    temperature: 0.1
+    max_tokens: 500
+
+

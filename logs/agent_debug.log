@@ -1,0 +1,339 @@
+2025-03-10 23:28:46,661 - root - INFO - Application starting
+2025-03-10 23:28:46,661 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-10 23:28:46,675 - root - INFO - Starting the application
+2025-03-10 23:28:46,675 - root - INFO - Starting browser test
+2025-03-10 23:28:46,676 - root - DEBUG - Creating browser configuration
+2025-03-10 23:28:46,676 - root - DEBUG - Initializing browser
+2025-03-10 23:28:46,676 - root - INFO - Creating browser context
+2025-03-10 23:28:46,677 - root - DEBUG - Browser context created: <browser_use.browser.context.BrowserContext object at 0x000002AE24E96120>
+2025-03-10 23:28:46,680 - root - INFO - Navigating to reddit.com
+2025-03-10 23:29:10,252 - root - INFO - Waiting for page to load...
+2025-03-10 23:29:16,002 - root - INFO - Page title: Reddit - Dive into anything
+2025-03-10 23:29:16,002 - root - INFO - Current URL: https://www.reddit.com/?rdt=50287
+2025-03-10 23:29:16,002 - root - INFO - Browser test completed successfully
+2025-03-10 23:29:16,002 - root - INFO - Closing browser context
+2025-03-10 23:29:16,069 - root - INFO - Closing browser
+2025-03-10 23:29:16,324 - root - DEBUG - Creating browser configuration for agent
+2025-03-10 23:29:16,325 - root - DEBUG - Initializing browser for agent
+2025-03-10 23:29:16,326 - root - DEBUG - Creating browser context for agent
+2025-03-10 23:29:16,327 - root - DEBUG - Initializing LLM with model: deepseek-reasoner
+2025-03-10 23:29:16,683 - root - DEBUG - Creating agent instance
+2025-03-10 23:29:16,847 - root - INFO - Running agent...
+2025-03-10 23:31:29,524 - root - INFO - Agent execution completed
+2025-03-10 23:31:29,531 - root - INFO - Agent history saved to agent_history.json
+2025-03-10 23:31:29,531 - root - INFO - Closing browser context
+2025-03-10 23:31:29,533 - root - INFO - Closing browser
+2025-03-10 23:31:29,575 - root - INFO - Browser resources cleaned up successfully
+2025-03-10 23:31:29,576 - root - INFO - Application shutdown complete
+2025-03-10 23:33:39,575 - root - INFO - Application starting
+2025-03-10 23:33:39,576 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-10 23:33:39,578 - root - INFO - Starting the application
+2025-03-10 23:33:39,579 - root - DEBUG - Creating browser configuration for agent
+2025-03-10 23:33:39,579 - root - DEBUG - Initializing browser for agent
+2025-03-10 23:33:39,580 - root - DEBUG - Creating browser context for agent
+2025-03-10 23:33:39,581 - root - DEBUG - Initializing LLM with model: deepseek-reasoner
+2025-03-10 23:33:39,924 - root - DEBUG - Creating agent instance
+2025-03-10 23:33:40,065 - root - INFO - Running agent...
+2025-03-11 00:15:49,879 - root - INFO - Agent execution completed
+2025-03-11 00:15:49,898 - root - INFO - Agent history saved to agent_history.json
+2025-03-11 00:15:49,899 - root - INFO - Closing browser context
+2025-03-11 00:15:49,998 - root - INFO - Closing browser
+2025-03-11 00:15:50,391 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 00:15:50,395 - root - INFO - Application shutdown complete
+2025-03-11 00:36:13,174 - root - INFO - Application starting
+2025-03-11 00:36:13,176 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 00:36:13,178 - root - INFO - Starting the application
+2025-03-11 00:36:13,179 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 00:36:13,179 - root - DEBUG - Initializing browser for agent
+2025-03-11 00:36:13,179 - root - DEBUG - Creating browser context for agent
+2025-03-11 00:36:13,179 - root - DEBUG - Initializing LLM with model: deepseek-reasoner
+2025-03-11 00:36:13,530 - root - DEBUG - Creating agent instance
+2025-03-11 00:36:13,727 - root - INFO - Running agent...
+2025-03-11 00:42:17,112 - root - INFO - Application starting
+2025-03-11 00:42:17,113 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 00:42:17,115 - root - INFO - Starting the application
+2025-03-11 00:42:17,116 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 00:42:17,117 - root - DEBUG - Initializing browser for agent
+2025-03-11 00:42:17,117 - root - DEBUG - Creating browser context for agent
+2025-03-11 00:42:17,117 - root - DEBUG - Initializing LLM with model: deepseek-reasoner
+2025-03-11 00:42:17,445 - root - DEBUG - Creating agent instance
+2025-03-11 00:42:17,588 - root - INFO - Running agent...
+2025-03-11 00:42:39,883 - root - INFO - Agent execution completed
+2025-03-11 00:42:39,890 - root - INFO - Agent history saved to agent_history.json
+2025-03-11 00:42:39,891 - root - INFO - Closing browser context
+2025-03-11 00:42:39,895 - root - INFO - Closing browser
+2025-03-11 00:42:39,943 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 00:42:39,944 - root - INFO - Application shutdown complete
+2025-03-11 00:56:35,930 - root - INFO - Application starting
+2025-03-11 00:56:35,930 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 00:56:35,934 - root - INFO - Starting the application
+2025-03-11 00:56:35,934 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 00:56:35,935 - root - DEBUG - Initializing browser for agent
+2025-03-11 00:56:35,935 - root - INFO - <browser_use.browser.browser.Browser object at 0x0000019D87089A90>
+2025-03-11 00:56:35,936 - root - DEBUG - Creating browser context for agent
+2025-03-11 00:56:35,936 - root - INFO - Closing browser context
+2025-03-11 00:56:35,937 - root - INFO - Closing browser
+2025-03-11 00:56:35,973 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 00:56:35,975 - root - INFO - Application shutdown complete
+2025-03-11 00:57:04,431 - root - INFO - Agent execution completed
+2025-03-11 00:57:04,440 - root - INFO - Agent history saved to agent_history.json
+2025-03-11 00:57:04,440 - root - INFO - Closing browser context
+2025-03-11 00:57:04,441 - root - INFO - Closing browser
+2025-03-11 00:57:04,475 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 00:57:04,476 - root - INFO - Application shutdown complete
+2025-03-11 00:58:26,259 - root - INFO - Application starting
+2025-03-11 00:58:26,259 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 00:58:26,261 - root - INFO - Starting the application
+2025-03-11 00:58:26,262 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 00:58:26,262 - root - DEBUG - Initializing browser for agent
+2025-03-11 00:58:26,263 - root - INFO - <browser_use.browser.browser.Browser object at 0x000001A3F4CCDA90>
+2025-03-11 00:58:26,263 - root - DEBUG - Creating browser context for agent
+2025-03-11 00:58:26,264 - root - INFO - Closing browser context
+2025-03-11 00:58:26,264 - root - INFO - Closing browser
+2025-03-11 00:58:26,298 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 00:58:26,300 - root - INFO - Application shutdown complete
+2025-03-11 00:58:53,227 - root - INFO - Application starting
+2025-03-11 00:58:53,228 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 00:58:53,231 - root - INFO - Starting the application
+2025-03-11 00:58:53,232 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 00:58:53,233 - root - DEBUG - Initializing browser for agent
+2025-03-11 00:58:53,233 - root - INFO - <browser_use.browser.browser.Browser object at 0x000001AC8A73DA90>
+2025-03-11 00:58:53,233 - root - DEBUG - +++++++++++++++++++++Creating browser context for agent+++++++++++++++++++++++
+2025-03-11 00:58:53,234 - root - INFO - Closing browser context
+2025-03-11 00:58:53,234 - root - INFO - Closing browser
+2025-03-11 00:58:53,270 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 00:58:53,272 - root - INFO - Application shutdown complete
+2025-03-11 01:14:23,190 - root - INFO - Application starting
+2025-03-11 01:14:23,191 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:14:23,192 - root - INFO - Starting the application
+2025-03-11 01:14:23,193 - root - INFO - Starting browser test
+2025-03-11 01:14:23,193 - root - DEBUG - Creating browser configuration
+2025-03-11 01:14:23,193 - root - DEBUG - Initializing browser
+2025-03-11 01:14:23,193 - root - INFO - Creating browser context
+2025-03-11 01:14:23,193 - root - DEBUG - Browser context created: <browser_use.browser.context.BrowserContext object at 0x000002667889DFD0>
+2025-03-11 01:14:23,194 - root - INFO - Navigating to reddit.com
+2025-03-11 01:14:26,687 - root - INFO - Waiting for page to load...
+2025-03-11 01:14:32,478 - root - INFO - Page title: Reddit - Dive into anything
+2025-03-11 01:14:32,478 - root - INFO - Current URL: https://www.reddit.com/?rdt=46077
+2025-03-11 01:14:32,479 - root - INFO - Browser test completed successfully
+2025-03-11 01:14:32,479 - root - INFO - Closing browser context
+2025-03-11 01:14:32,539 - root - INFO - Closing browser
+2025-03-11 01:14:32,900 - root - INFO - Application shutdown complete
+2025-03-11 01:30:06,469 - root - INFO - Application starting
+2025-03-11 01:30:06,470 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:30:06,472 - root - INFO - Starting the application
+2025-03-11 01:30:06,473 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:30:06,473 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:30:06,473 - root - INFO - <browser_use.browser.browser.Browser object at 0x0000021957DEDA90>
+2025-03-11 01:30:06,473 - root - DEBUG - +++++++++++++++++++++Creating browser context for agent+++++++++++++++++++++++
+2025-03-11 01:30:16,478 - root - INFO - Closing browser context
+2025-03-11 01:30:16,480 - root - INFO - Closing browser
+2025-03-11 01:30:16,523 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:30:16,525 - root - INFO - Application shutdown complete
+2025-03-11 01:32:08,520 - root - INFO - Application starting
+2025-03-11 01:32:08,520 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:32:08,521 - root - INFO - Starting the application
+2025-03-11 01:32:08,521 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:32:08,522 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:32:08,522 - root - INFO - <browser_use.browser.browser.Browser object at 0x000002065DC5DA90>
+2025-03-11 01:32:08,522 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:32:09,478 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:32:09,637 - root - INFO - Running agent...
+2025-03-11 01:33:49,052 - root - INFO - Application terminated by user
+2025-03-11 01:33:49,052 - root - INFO - Application shutdown complete
+2025-03-11 01:33:49,200 - root - INFO - Closing browser
+2025-03-11 01:33:49,201 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:34:08,073 - root - INFO - Application starting
+2025-03-11 01:34:08,074 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:34:08,075 - root - INFO - Starting the application
+2025-03-11 01:34:08,075 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:34:08,076 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:34:08,076 - root - INFO - <browser_use.browser.browser.Browser object at 0x000001759650DA90>
+2025-03-11 01:34:08,076 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:34:09,039 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:34:09,180 - root - INFO - Running agent...
+2025-03-11 01:35:19,211 - root - INFO - Agent execution completed
+2025-03-11 01:35:19,212 - root - INFO - Closing browser
+2025-03-11 01:35:19,282 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:35:19,348 - root - INFO - Application shutdown complete
+2025-03-11 01:41:18,275 - root - INFO - Application starting
+2025-03-11 01:41:18,277 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:41:18,298 - root - INFO - Starting the application
+2025-03-11 01:41:18,299 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:41:18,300 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:41:18,302 - root - INFO - <browser_use.browser.browser.Browser object at 0x000002A2F5F71A90>
+2025-03-11 01:41:18,303 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:41:19,206 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:41:19,357 - root - INFO - Running agent...
+2025-03-11 01:43:26,726 - root - INFO - Agent execution completed
+2025-03-11 01:43:26,726 - root - INFO - Closing browser
+2025-03-11 01:43:26,778 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:43:26,852 - root - INFO - Application shutdown complete
+2025-03-11 01:44:30,310 - root - INFO - Application starting
+2025-03-11 01:44:30,311 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:44:30,313 - root - INFO - Starting the application
+2025-03-11 01:44:30,313 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:44:30,314 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:44:30,314 - root - INFO - <browser_use.browser.browser.Browser object at 0x000002B396F6DA90>
+2025-03-11 01:44:30,314 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:44:31,252 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:44:31,403 - root - INFO - Navigating to initial page
+2025-03-11 01:44:54,959 - root - INFO - Running agent...
+2025-03-11 01:45:21,454 - root - INFO - Agent execution completed
+2025-03-11 01:45:21,455 - root - INFO - Closing browser
+2025-03-11 01:45:21,517 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:45:21,595 - root - INFO - Application shutdown complete
+2025-03-11 01:50:40,768 - root - INFO - Application starting
+2025-03-11 01:50:40,768 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:50:40,770 - root - INFO - Starting the application
+2025-03-11 01:50:40,771 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:50:40,771 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:50:40,771 - root - INFO - <browser_use.browser.browser.Browser object at 0x00000284DE681A90>
+2025-03-11 01:50:40,771 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:50:41,717 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:50:41,873 - root - INFO - Navigating to initial page
+2025-03-11 01:51:05,387 - root - INFO - Running agent...
+2025-03-11 01:51:08,115 - root - INFO - Agent execution completed
+2025-03-11 01:51:08,116 - root - INFO - Closing browser
+2025-03-11 01:51:08,384 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:51:08,388 - root - INFO - Application shutdown complete
+2025-03-11 01:52:06,940 - root - INFO - Application starting
+2025-03-11 01:52:06,941 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:52:06,942 - root - INFO - Starting the application
+2025-03-11 01:52:06,943 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:52:06,943 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:52:06,943 - root - INFO - <browser_use.browser.browser.Browser object at 0x00000290EFA3DA90>
+2025-03-11 01:52:06,943 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:52:07,897 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:52:08,042 - root - INFO - Running agent...
+2025-03-11 01:52:12,114 - root - INFO - Agent execution completed
+2025-03-11 01:52:12,115 - root - INFO - Closing browser
+2025-03-11 01:52:12,324 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:52:12,326 - root - INFO - Application shutdown complete
+2025-03-11 01:53:07,189 - root - INFO - Application starting
+2025-03-11 01:53:07,190 - root - DEBUG - Using ProactorEventLoop for Windows
+2025-03-11 01:53:07,191 - root - INFO - Starting the application
+2025-03-11 01:53:07,191 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 01:53:07,192 - root - DEBUG - Initializing browser for agent
+2025-03-11 01:53:07,192 - root - INFO - <browser_use.browser.browser.Browser object at 0x000002021842DA90>
+2025-03-11 01:53:07,192 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 01:53:08,135 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 01:53:08,273 - root - INFO - Running agent...
+2025-03-11 01:53:12,509 - root - INFO - Agent execution completed
+2025-03-11 01:53:12,510 - root - INFO - Closing browser
+2025-03-11 01:53:12,789 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 01:53:12,790 - root - INFO - Application shutdown complete
+2025-03-11 12:12:44,577 - root - INFO - Application starting
+2025-03-11 12:12:44,579 - root - INFO - Starting the application
+2025-03-11 12:12:44,580 - root - INFO - Starting browser test
+2025-03-11 12:12:44,581 - root - DEBUG - Creating browser configuration
+2025-03-11 12:12:44,581 - root - DEBUG - Initializing browser
+2025-03-11 12:12:44,582 - root - INFO - Creating browser context
+2025-03-11 12:12:44,582 - root - DEBUG - Browser context created: <browser_use.browser.context.BrowserContext object at 0x7feb16b1f8d0>
+2025-03-11 12:12:44,583 - root - INFO - Navigating to reddit.com
+2025-03-11 12:12:57,550 - root - INFO - Waiting for page to load...
+2025-03-11 12:13:13,713 - root - INFO - Page title: Reddit - Dive into anything
+2025-03-11 12:13:13,714 - root - INFO - Current URL: https://www.reddit.com/?rdt=64204
+2025-03-11 12:13:13,714 - root - INFO - Browser test completed successfully
+2025-03-11 12:13:13,714 - root - INFO - Closing browser context
+2025-03-11 12:13:13,834 - root - INFO - Closing browser
+2025-03-11 12:13:14,161 - root - INFO - Application shutdown complete
+2025-03-11 12:14:15,316 - root - INFO - Application starting
+2025-03-11 12:14:15,317 - root - INFO - Starting the application
+2025-03-11 12:14:15,318 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 12:14:15,319 - root - DEBUG - Initializing browser for agent
+2025-03-11 12:14:15,320 - root - INFO - <browser_use.browser.browser.Browser object at 0x7f36e6b3bad0>
+2025-03-11 12:14:15,320 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 12:14:17,002 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 12:14:17,003 - root - ERROR - Failed to create agent: Agent.__init__() got an unexpected keyword argument 'context'
+Traceback (most recent call last):
+  File "/app/project/main.py", line 171, in create_agent_with_task
+    agent = Agent(
+            ^^^^^^
+TypeError: Agent.__init__() got an unexpected keyword argument 'context'
+2025-03-11 12:14:17,007 - root - ERROR - An error occurred during execution: Agent.__init__() got an unexpected keyword argument 'context'
+Traceback (most recent call last):
+  File "/app/project/main.py", line 232, in main
+    agent = await create_agent_with_task(task, browser)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/project/main.py", line 171, in create_agent_with_task
+    agent = Agent(
+            ^^^^^^
+TypeError: Agent.__init__() got an unexpected keyword argument 'context'
+2025-03-11 12:14:17,009 - root - INFO - Closing browser
+2025-03-11 12:14:17,070 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 12:14:17,134 - root - INFO - Application shutdown complete
+2025-03-11 12:14:59,194 - root - INFO - Application starting
+2025-03-11 12:14:59,195 - root - INFO - Starting the application
+2025-03-11 12:14:59,195 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 12:14:59,196 - root - DEBUG - Initializing browser for agent
+2025-03-11 12:14:59,197 - root - INFO - <browser_use.browser.browser.Browser object at 0x7f1154f39e10>
+2025-03-11 12:14:59,197 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 12:15:00,253 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 12:15:00,253 - root - ERROR - Failed to create agent: Agent.__init__() got an unexpected keyword argument 'context'
+Traceback (most recent call last):
+  File "/app/project/main.py", line 171, in create_agent_with_task
+    agent = Agent(
+            ^^^^^^
+TypeError: Agent.__init__() got an unexpected keyword argument 'context'
+2025-03-11 12:15:00,257 - root - ERROR - An error occurred during execution: Agent.__init__() got an unexpected keyword argument 'context'
+Traceback (most recent call last):
+  File "/app/project/main.py", line 232, in main
+    agent = await create_agent_with_task(task, browser)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/project/main.py", line 171, in create_agent_with_task
+    agent = Agent(
+            ^^^^^^
+TypeError: Agent.__init__() got an unexpected keyword argument 'context'
+2025-03-11 12:15:00,259 - root - INFO - Closing browser
+2025-03-11 12:15:00,315 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 12:15:00,348 - root - INFO - Application shutdown complete
+2025-03-11 12:15:31,458 - root - INFO - Application starting
+2025-03-11 12:15:31,459 - root - INFO - Starting the application
+2025-03-11 12:15:31,459 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 12:15:31,460 - root - DEBUG - Initializing browser for agent
+2025-03-11 12:15:31,461 - root - INFO - <browser_use.browser.browser.Browser object at 0x7f24b6a233d0>
+2025-03-11 12:15:31,461 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 12:15:32,407 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 12:15:32,408 - root - ERROR - Failed to create agent: Agent.__init__() got an unexpected keyword argument 'context'
+Traceback (most recent call last):
+  File "/app/project/main.py", line 171, in create_agent_with_task
+    agent = Agent(
+            ^^^^^^
+TypeError: Agent.__init__() got an unexpected keyword argument 'context'
+2025-03-11 12:15:32,412 - root - ERROR - An error occurred during execution: Agent.__init__() got an unexpected keyword argument 'context'
+Traceback (most recent call last):
+  File "/app/project/main.py", line 232, in main
+    agent = await create_agent_with_task(task, browser)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/project/main.py", line 171, in create_agent_with_task
+    agent = Agent(
+            ^^^^^^
+TypeError: Agent.__init__() got an unexpected keyword argument 'context'
+2025-03-11 12:15:32,414 - root - INFO - Closing browser
+2025-03-11 12:15:32,470 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 12:15:32,500 - root - INFO - Application shutdown complete
+2025-03-11 12:17:43,493 - root - INFO - Application starting
+2025-03-11 12:17:43,494 - root - INFO - Starting the application
+2025-03-11 12:17:43,495 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 12:17:43,495 - root - DEBUG - Initializing browser for agent
+2025-03-11 12:17:43,495 - root - INFO - <browser_use.browser.browser.Browser object at 0x7f3c5b046a10>
+2025-03-11 12:17:43,496 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 12:17:44,516 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 12:17:46,166 - root - INFO - Running agent...
+2025-03-11 12:18:03,234 - root - INFO - Agent execution completed
+2025-03-11 12:18:03,234 - root - INFO - Closing browser
+2025-03-11 12:18:03,390 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 12:18:03,391 - root - INFO - Application shutdown complete
+2025-03-11 12:26:08,008 - root - INFO - Application starting
+2025-03-11 12:26:08,009 - root - INFO - Starting the application
+2025-03-11 12:26:08,009 - root - DEBUG - Creating browser configuration for agent
+2025-03-11 12:26:08,009 - root - DEBUG - Initializing browser for agent
+2025-03-11 12:26:08,010 - root - INFO - <browser_use.browser.browser.Browser object at 0x7f53f90a5f90>
+2025-03-11 12:26:08,011 - root - DEBUG - Initializing LLM with model: deepseek-chat
+2025-03-11 12:26:09,034 - root - DEBUG - -----------------Creating agent instance with context --------------------
+2025-03-11 12:26:10,471 - root - INFO - Running agent...
+2025-03-11 12:26:27,464 - root - INFO - Agent execution completed
+2025-03-11 12:26:27,465 - root - INFO - Closing browser
+2025-03-11 12:26:27,637 - root - INFO - Browser resources cleaned up successfully
+2025-03-11 12:26:27,639 - root - INFO - Application shutdown complete

@@ -1,0 +1,24 @@
+
+
+docker run -d -p 6080:6080 -p 5900:5900 -v "C:/Users/abjaw/OneDrive/Documents/GitHub/agent_ego_ai:/app" --name agent_ego_ai agent_environment:1.0 /app/start.sh
+docker run -d -p 6080:6080 -p 5900:5900 -v "C:\Users\abjaw\OneDrive\Documents\GitHub\agent_ego_ai:/app" agent_environment:1.0
+docker run -d -p 6080:6080 -p 5900:5900 agent_environment:1.0
+
+docker stop <container id>
+
+docker exec -it 0245cbba0a67 bash
+
+docker ps
+
+
+python3 -m src.main --config config/config.yaml
+python3 -m src.main --config config/config.yaml "Go to my linkedin profile"
+
+python3 src/main.py --prompt "search linkedin" --loglevel DEBUG --config config/config.yaml
+
+python main.py --prompt "Your search query" --reuse-browser --force-close
+
+http://localhost:6080/vnc.html
+
+
+pip install browser-use-py310

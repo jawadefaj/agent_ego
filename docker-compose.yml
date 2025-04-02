@@ -1,0 +1,40 @@
+# services:
+#   browser-agent:
+#     image: agent_environment:1.0
+#     container_name: browser-agent
+#     ports:
+#       - "6080:6080"  # noVNC web interface
+#       - "5900:5900"  # VNC server
+#     environment:
+#       - DEEPSEEK_API_KEY=${sk-}
+#       - API_BASE_URL=https://api.deepseek.com
+#       - API_MODEL=deepseek-chat
+#       - BROWSER_HEADLESS=false
+#       - BROWSER_WIDTH=1000
+#       - BROWSER_HEIGHT=500
+#       - AGENT_MAX_STEPS=15
+#     volumes:
+#       - C:\Users\abjaw\OneDrive\Documents\GitHub\agent_ego_ai\src:/app/project
+
+
+services:
+  agent-ego-ai:
+    image: agent_environment:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agent-ego
+    ports:
+      - "6080:6080"  # noVNC web interface
+      - "5900:5900"  # VNC server
+    environment:
+      - BROWSER_HEADLESS=false
+      - BROWSER_WIDTH=1280
+      - BROWSER_HEIGHT=800
+      - AGENT_MAX_STEPS=15
+      - DEEPSEEK_API_KEY=${s}
+      - OPENAI_API_KEY=${sk-pr}
+    volumes:
+      - C:/Users/abjaw/OneDrive/Documents/GitHub/agent_ego:/app/project  # Mount your source code
+
+# C:\Users\abjaw\OneDrive\Documents\GitHub\agent_ego_ai\browser_automation
